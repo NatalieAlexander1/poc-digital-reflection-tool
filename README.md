@@ -9,11 +9,7 @@ Self-Care Journal is a web application designed to help users reflect on their d
 1. User Authentication
 2. Daily Reflection Journal
 3. Gratitude Log
-4. Strengths and Weaknesses Tracker
-5. Mood Tracking
-6. Goal Setting and Progress Monitoring
-7. Chatroom for Community Support
-8. Personalized Insights and Recommendations
+4. Goal Setting and Progress Monitoring
 
 ## Technology Stack
 
@@ -23,4 +19,4 @@ Self-Care Journal is a web application designed to help users reflect on their d
 - Cloud Platform: Azure
 - Additional Tools: Socket.IO for real-time communication, Flask-SQLAlchemy for ORM
 
-## Project Structure
+
